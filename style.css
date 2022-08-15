@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    height: 80px;
+   
+}
+.color-name{
+color: orange;
+}
+
+.for-size{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+img{
+    width: 100%;
+    /* margin-left: 5%; */
+    /* margin-top: 5%; */
+
+}
+.bcg-banner{
+    background-image: url(./images/top-banner.png);
+    height: 60%;
+    /* margin-top: 5px; */
+    background-repeat: no-repeat;
+}
